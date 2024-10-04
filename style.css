@@ -1,0 +1,12 @@
+h1{
+    color: white;
+}
+.box{
+    margin-top: 150px;
+    margin-left: 550px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    width: 300px;
+}
